@@ -1,0 +1,5 @@
+Credentials cache: API:1338
+        Principal: fel-hita@1337.MA
+
+  Issued                Expires               Principal
+Aug 27 13:55:34 2018  Aug 28 13:55:34 2018  krbtgt/1337.MA@1337.MA

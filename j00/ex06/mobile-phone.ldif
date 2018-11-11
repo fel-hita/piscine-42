@@ -1,0 +1,4 @@
+dn: cn=Farouk El hitary,ou=candidate,ou=people,dc=1337,dc=ma
+changetype: modify
+add: telephonenumber
+telephonenumber: +2126549434
